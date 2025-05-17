@@ -1,4 +1,4 @@
-<div id="header" align="start">
+<div id="header" align="center">
   <kbd><img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="300"/></kbd><p></p>
   <div id="badges">
     <a href="https://in.linkedin.com/in/chitrank-dave-70964ba1">
